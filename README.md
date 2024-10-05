@@ -1,4 +1,4 @@
-### Olá! Meu nome é Luis Fernando, tenho 19 anos, sou estudante de tecnologia, formado técnico em Desenvolvimento de Sistema pela Etec e cursando Informática para Negócios na Fatec.  👋
+### Olá! Meu nome é Luis Fernando, tenho 20 anos, sou estudante de tecnologia, formado técnico em Desenvolvimento de Sistema pela Etec e cursando Informática para Negócios na Fatec.  👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_fernand0_18/)
 
