@@ -7,12 +7,8 @@
 ### Tecnologias que tenho conhecimento:
 
 <div style="display: inline-block;"><br/>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=js"/>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=angular"/>
   <img src="https://skillicons.dev/icons?i=java"/>
   <img src="https://skillicons.dev/icons?i=postgres"/>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=docker"/>
 </div>
